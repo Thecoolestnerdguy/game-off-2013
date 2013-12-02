@@ -595,6 +595,12 @@ update : function()
     game.systems.updateParticles();
     game.systems.drawScore();
     game.systems.timer();
+    var decis = Math.floor((Math.random()*120)+0);
+    if(decis === 0)
+    {
+        game.spawner.spawn();
+    }
+
     }
     
     

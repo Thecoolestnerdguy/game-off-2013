@@ -252,7 +252,7 @@ if(game.timing.step === game.timing.global)
 if(game.timing.step === 30)
 {
     var decis = Math.floor((Math.random()*3)+0);
-    if(decis === 0 || decis === 1)
+    if(decis === 0 || decis === 1 || decis === 2)
     {
         game.spawner.spawn();
     }

@@ -5,4 +5,4 @@
 My entry to the Github Game off 2013 compo.
 Made in HTML5.
 No libraries, game engines or frameworks used.
-Let's upload this shit hurry!
+Play it [here](http://goo.gl/rkgp01); 
